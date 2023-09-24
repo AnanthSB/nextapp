@@ -1,0 +1,20 @@
+learningVideoReferrence:-
+https://www.youtube.com/watch?v=nCu9q9-r2uE&list=PL8p2I9GklV44sj_Ikp8jQSvwD-m9htnHT&index=14
+
+npm run dev
+
+>> What is linking and navigation?
+>> How to make links?   
+>> How to navigate to another screen?
+
+>>Nested Routing
+>>Common Layout
+
+" userRouter is only used in client component "
+
+>>Conditional Layout  - by passing path
+>>Dynamic Routes - with passign id/name using list
+>>Catch-all segments of route
+    localhost:3000/firstRoute/secondRoute/thirdRoute -> ['firstRoute', 'secondRoute', 'thirdRoute']
+
+>>not-found - A Global component
