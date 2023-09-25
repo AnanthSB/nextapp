@@ -18,3 +18,5 @@ npm run dev
     localhost:3000/firstRoute/secondRoute/thirdRoute -> ['firstRoute', 'secondRoute', 'thirdRoute']
 
 >>not-found - A Global component
+
+>>Middleware in next js

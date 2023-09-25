@@ -1,0 +1,55 @@
+1. is react code working with next.js
+2. What is component ?
+3. How to pass data in component ?
+4. Difference between javascript and typescript.
+5. Server side scripting vs client side scripting.
+
+6. What is 'use client' in next.js ?
+7. How to call the function in next.js ?
+8. Make a component inside a component.
+9. Call component as a function.
+10. What is State in react ?
+
+11. what is package.json ?
+12. Difference between dependency and devdependency.
+
+13. Component type based on rendering.
+14. Client component vs server component
+15. can we use both type of component together ?
+
+16. What is the pattern for creating page in next.js ?
+17. Do we install any package for routing in next.js ?
+18. Next.js uses a file-system based router.
+
+19. Two ways of navigating between routes.
+20. Difference between Link and navigation.
+
+21. What is nested routing in next.js ?
+22. Pattern for nested routing in next.js.
+
+23. How many common layout works in Next.js.
+24. Why user first letter capital in Link tag.
+
+25. How to write conditions in JSX ?
+26. How to add  condition layout ? 
+
+27. What is a dynamic Route ?
+28. How to get dynamic Route name ?
+
+29. Get Route Name from url ?
+30. How to get all segments of Route ?
+
+31. Make 400 page a segment.
+32. How to make 404 page?
+33. What is 404 page ?
+
+34. What is Middlware in Next.js ?
+35. Where we can use middleware ?
+36. How to apply middleware  in specific route ?.
+
+37. What is client component in next.js ?
+38. How to make client  components ?
+39. Fetch data in client component ?
+
+40. What is server component in next.js ?
+41. How do call API in server component ?
